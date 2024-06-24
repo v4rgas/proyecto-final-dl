@@ -1,6 +1,3 @@
-import random
-
-
 def move_first_to_last(sentence):
     words = sentence.split()
     if len(words) > 1:
